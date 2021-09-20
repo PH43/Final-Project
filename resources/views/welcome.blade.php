@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel PH43 Final
                 </div>
 
                 <div class="links">

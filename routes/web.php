@@ -20,6 +20,12 @@ Route::get('/hello', function () {
     return "hello";
 });
 
+
+Route::get('/register', function () {
+    return "register";
+});
+
 Route::get('/login', function () {
     return "login";
+
 });

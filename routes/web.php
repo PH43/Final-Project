@@ -29,3 +29,8 @@ Route::get('/login', function () {
     return "login";
 
 });
+
+Route::get('/logout', function () {
+    return "logout";
+
+});
